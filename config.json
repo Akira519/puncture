@@ -1,0 +1,13 @@
+{
+    "server":"192.168.1.104",
+    "server_port":18911,
+    "local_port":1080,
+    "password":"abcdefg",
+    "timeout":20,
+    "method": "aes-256-gcm",
+    "local_address":"127.0.0.1",
+    "verbose" : 9,
+    "prefer_ipv6":"",
+    "ban_count":"3",
+    "ban_resume":"10"
+}
